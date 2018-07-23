@@ -1,0 +1,6 @@
+{
+  "videos_basedir": "/felippe/panoptic-dataset-hdvideos",
+  "output_dir": "/felippe/panoptic-detections",
+  "cameras": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+  "video_file": "hd_00_{camera:02d}.mp4"
+}
